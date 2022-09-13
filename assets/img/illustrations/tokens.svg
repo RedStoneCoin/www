@@ -86,8 +86,8 @@
 					C145.8,229.1,19.4,225.8,29.3,149.4z"/>
 				
 					<linearGradient id="SVGID_4_" gradientUnits="userSpaceOnUse" x1="72.8159" y1="-16030.1748" x2="198.7047" y2="-16030.1748" gradientTransform="matrix(1 0 0 -1 0 -15884)">
-					<stop  offset="0" style="stop-color:#7F00FF"/>
-					<stop  offset="1" style="stop-color:#3F00FC"/>
+					<stop  offset="0" style="stop-color:#ff0000"/>
+					<stop  offset="1" style="stop-color:#b70404"/>
 				</linearGradient>
 				<path class="st7" d="M190.7,134.4l8-4.3l-14.4-7.8l-7.5,4.9l-6.3-4.2l8.3-4.3l-14.1-8l-7.8,4.6l-10.4-6l-13.6,8l6.8,4.3
 					L93.9,148l-7.3-4.1L72.8,152l10.4,5.9l-6.4,3.8l13.8,7.9L97,166l6,3.3l-6.5,3.7l13.9,8.1l6.3-3.8c16.8,8.5,34.4,4.9,34.4,4.9
@@ -141,8 +141,8 @@
 					C378.1,285.5,251.7,282.2,261.7,205.8z"/>
 				
 					<linearGradient id="SVGID_8_" gradientUnits="userSpaceOnUse" x1="305.1327" y1="-16086.5674" x2="431.0215" y2="-16086.5674" gradientTransform="matrix(1 0 0 -1 0 -15884)">
-					<stop  offset="0" style="stop-color:#7F00FF"/>
-					<stop  offset="1" style="stop-color:#3F00FC"/>
+					<stop  offset="0" style="stop-color:#ff0000"/>
+					<stop  offset="1" style="stop-color:#b70404"/>
 				</linearGradient>
 				<path class="st12" d="M423.1,190.8l8-4.3l-14.4-7.8l-7.5,4.9l-6.3-4.2l8.3-4.3l-14.1-8l-7.8,4.6l-10.4-6l-13.6,8l6.8,4.3
 					l-45.8,26.4l-7.3-4.1l-13.8,8.1l10.4,5.9l-6.4,3.8l13.8,7.9l6.4-3.6l6,3.3l-6.5,3.7l13.9,8.1l6.3-3.8
@@ -196,8 +196,8 @@
 					C151.8,393.2,25.4,390,35.3,313.5z"/>
 				
 					<linearGradient id="SVGID_12_" gradientUnits="userSpaceOnUse" x1="78.8023" y1="-16194.3154" x2="204.6911" y2="-16194.3154" gradientTransform="matrix(1 0 0 -1 0 -15884)">
-					<stop  offset="0" style="stop-color:#7F00FF"/>
-					<stop  offset="1" style="stop-color:#3F00FC"/>
+					<stop  offset="0" style="stop-color:#ff0000"/>
+					<stop  offset="1" style="stop-color:#b70404"/>
 				</linearGradient>
 				<path class="st17" d="M196.7,298.5l8-4.3l-14.4-7.8l-7.5,4.9l-6.3-4.2l8.3-4.3l-14.1-8l-7.8,4.6l-10.4-6l-13.6,8l6.8,4.3
 					l-45.8,26.4l-7.3-4.1l-13.8,8.1l10.4,5.9l-6.4,3.8l13.8,7.9l6.4-3.6l6,3.3l-6.5,3.7l13.9,8.1l6.3-3.8

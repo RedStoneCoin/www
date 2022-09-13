@@ -247,7 +247,7 @@
 		<use xlink:href="#SVGID_1_"  style="overflow:visible;"/>
 	</clipPath>
 	<linearGradient id="SVGID_3_" gradientUnits="userSpaceOnUse" x1="-188" y1="-256" x2="712" y2="-256">
-		<stop  offset="0" style="stop-color:#7F00FF"/>
+		<stop  offset="0" style="stop-color:#ff0000"/>
 		<stop  offset="0.2752" style="stop-color:#7C00FF"/>
 		<stop  offset="0.4903" style="stop-color:#7200FF"/>
 		<stop  offset="0.6852" style="stop-color:#6100FF"/>

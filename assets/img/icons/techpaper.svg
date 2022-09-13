@@ -20,7 +20,7 @@
 <path id="Stroke-8-Copy-3_1_" class="st1" d="M149.7,234.7h176.6"/>
 <path id="Stroke-8-Copy-4_1_" class="st1" d="M149.7,278.3h63.8"/>
 <linearGradient id="XMLID_2_" gradientUnits="userSpaceOnUse" x1="207.1174" y1="348.062" x2="511.25" y2="348.062">
-	<stop  offset="1.916698e-007" style="stop-color:#7F00FF"/>
+	<stop  offset="1.916698e-007" style="stop-color:#ff0000"/>
 	<stop  offset="1" style="stop-color:#5671FF"/>
 </linearGradient>
 <path id="XMLID_31_" class="st2" d="M211.5,288.1c-2.1-8.6,4.3-17.1,12.8-19.3L333,245.1l89.3-19.6l26.8-5.9
@@ -28,12 +28,12 @@
 	L211.5,288.1z"/>
 <g>
 	<linearGradient id="SVGID_1_" gradientUnits="userSpaceOnUse" x1="337.7236" y1="348.062" x2="380.6438" y2="348.062">
-		<stop  offset="1.916698e-007" style="stop-color:#7F00FF"/>
+		<stop  offset="1.916698e-007" style="stop-color:#ff0000"/>
 		<stop  offset="1" style="stop-color:#5671FF"/>
 	</linearGradient>
 	<circle class="st3" cx="359.2" cy="348.1" r="17.5"/>
 	<linearGradient id="SVGID_2_" gradientUnits="userSpaceOnUse" x1="291.1634" y1="348.062" x2="427.204" y2="348.062">
-		<stop  offset="1.916698e-007" style="stop-color:#7F00FF"/>
+		<stop  offset="1.916698e-007" style="stop-color:#ff0000"/>
 		<stop  offset="1" style="stop-color:#5671FF"/>
 	</linearGradient>
 	<path class="st4" d="M402.3,365.5c-1.6,3.6-0.8,7.8,1.9,10.6l0.3,0.3c4.5,4.5,4.6,11.9,0,16.5c0,0,0,0,0,0

@@ -169,13 +169,13 @@ function initParticles() {
           }
         },
         "color": {
-          "value": ["#5507fc"]
+          "value": ["#d80202"]
         },
         "shape": {
           "type": "circle",
           "stroke": {
             "width": 5,
-            "color": "#5507fc"
+            "color": "#d80202"
           },
           "polygon": {
             "nb_sides": 5
@@ -209,7 +209,7 @@ function initParticles() {
         "line_linked": {
           "enable": true,
           "distance": 120,
-          "color": "#5507fc",
+          "color": "#d80202",
           "opacity": 0.2,
           "width": 1.6
         },
